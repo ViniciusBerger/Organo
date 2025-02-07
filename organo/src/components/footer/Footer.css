@@ -1,0 +1,14 @@
+.Footer {
+    margin: 0;
+    background-color: #6278f7;
+    text-align: center;
+    background-image: url("images/fundo.png");
+    background-position: bottom center;
+    padding: 15px;
+
+}
+
+.Footer img {
+    padding:16px ;
+    max-width: 100%;
+}

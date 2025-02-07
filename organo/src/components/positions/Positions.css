@@ -1,0 +1,21 @@
+.Positions {
+    text-align: center;
+    background-color: #D9F7E9;
+    padding: 36px;
+}
+
+.Positions h3 {
+    border-bottom: 4px solid #57c278;
+    font-family: sans-serif;
+    color:black;
+    font-size: 24px;
+    display: inline-block;
+    font-weight: 800;
+    padding-bottom: 8px;
+}
+
+.Positions .PositionConteiner {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
