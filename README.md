@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Organo: Create and organize your team
 
 This project was bootstrapped with [Create vite App].
 
